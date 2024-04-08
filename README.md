@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JammieCoder
-- 👀 I’m interested in Modding (Minecraft), scripting, database design, and software engineering
-- 🌱 I’m currently learning C#, Minecraft Modding, Springboot, VueJS, C, and Haskell
+- 👀 I’m interested in Modding (Minecraft), scripting, data engineering, and software engineering
+- 🌱 I’m currently learning Springboot Java, VueJS, AngularJS, C, and x86 Assembly. These are accompanied by Test-driven and Agile approaches. 
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me james.galjaard@btinternet.com
 
